@@ -1,0 +1,14 @@
+[
+    {
+      "name": "CSS in a Nutshell",
+      "description": "cascading style sheets in a nutshell. it make color go pretty."
+    },
+    {
+      "name": "The Ultimate Tech Quiz",
+      "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+    },
+    {
+      "name": "HTML5 for Dummies",
+      "description": "just do !doctype html lol"
+    }
+  ]
